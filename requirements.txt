@@ -1,0 +1,6 @@
+crewai
+pydantic
+uv
+requests
+PyYAML
+httpx

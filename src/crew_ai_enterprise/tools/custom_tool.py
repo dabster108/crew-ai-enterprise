@@ -1,4 +1,5 @@
-from crewai.tools import BaseTool
+from crew_ai_enterprise.tools import BaseTool
+from crew_ai_enterprise.tools import custom_tool
 from typing import Type
 from pydantic import BaseModel, Field
 
