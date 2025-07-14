@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/dikshanta/Documents/crewai/crew_ai_enterprise/crewenv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
